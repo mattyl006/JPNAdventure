@@ -12,7 +12,7 @@ export default {
         secondary: ["var(--font-jost)"],
       },
       colors: {
-        primary: "var(--color-primary)",
+        primary: "#13876F",
         secondary: "var(--color-secondary)",
         "matt-blue": "#1E90FF",
       },
